@@ -3695,3 +3695,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Feb2025 21:53:04.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
 [22Feb2025 21:53:04.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
 [22Feb2025 21:53:04.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30215ms or 604 ticks behind
+[22Feb2025 21:53:50.209] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Feb2025 21:53:50.265] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Feb2025 21:53:50.329] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Feb2025 21:53:50.389] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Feb2025 21:53:50.449] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Feb2025 21:53:50.514] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Feb2025 21:53:50.514] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Feb2025 21:53:50.570] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Feb2025 21:53:50.627] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Feb2025 21:53:50.690] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Feb2025 21:53:50.747] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Feb2025 21:53:50.807] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Feb2025 21:53:50.996] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Feb2025 21:53:50.996] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Feb2025 21:53:50.999] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Feb2025 21:53:51.042] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Feb2025 21:53:54.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.91.61.7:55453] logged in with entity id 926 at (714.5, 73.0, 23.5)
+[22Feb2025 21:54:13.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[22Feb2025 21:54:14.005] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[22Feb2025 21:54:14.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19474ms or 389 ticks behind
+[22Feb2025 21:56:48.631] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_green] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[22Feb2025 21:56:48.631] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_red] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[22Feb2025 21:56:48.631] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_orange] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[22Feb2025 21:57:09.525] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Feb2025 21:57:09.582] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Feb2025 21:57:09.638] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Feb2025 21:57:09.695] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Feb2025 21:57:09.752] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Feb2025 21:57:09.809] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Feb2025 21:57:09.809] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Feb2025 21:57:09.866] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Feb2025 21:57:09.923] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Feb2025 21:57:09.979] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Feb2025 21:57:10.033] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Feb2025 21:57:10.087] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Feb2025 21:57:10.228] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Feb2025 21:57:10.250] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Feb2025 21:57:10.290] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Feb2025 21:57:10.311] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Feb2025 21:57:13.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FunnyUntipo[/127.168.198.138:60071] logged in with entity id 1543 at (702.5, 67.0, 31.5)
+[22Feb2025 21:57:13.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo joined the game
+[22Feb2025 21:57:13.922] [Server thread/INFO] [Jade/]: Syncing config to FunnyUntipo (b404d8c6-7175-37d8-923b-eca00424e1ad)
+[22Feb2025 21:58:30.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [To Resist Us Is Futile]
+[22Feb2025 21:58:45.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[22Feb2025 21:58:45.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[22Feb2025 22:00:38.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
+[22Feb2025 22:00:38.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
+[22Feb2025 22:00:38.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Feb2025 22:00:38.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Feb2025 22:00:38.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Feb2025 22:00:39.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Feb2025 22:00:41.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Feb2025 22:00:41.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Feb2025 22:00:41.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Feb2025 22:00:41.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Feb2025 22:00:41.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Feb2025 22:00:41.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Feb2025 22:00:41.581] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@cc6c2f0
+[22Feb2025 22:00:41.583] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
